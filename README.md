@@ -6,7 +6,7 @@
 
 ## 받기
 
-오른쪽 **Releases** 에서 `메이플-스샷-정리.zip` 을 받아 압축을 풀고 `메이플 스샷 정리.exe` 를 실행하면 돼요. 설치는 필요 없어요.
+**[최신 버전 받기](https://github.com/messandrahelp-beep/maple-screenshot-sorter/releases/latest)** 에서 `MapleShotSorter-버전.zip` 을 받아 압축을 풀고 `메이플 스샷 정리.exe` 를 실행하면 돼요. 설치는 필요 없어요.
 
 - 윈도우 10 / 11
 - 메모리 약 30MB, 쉬는 동안 CPU 사용 거의 0
